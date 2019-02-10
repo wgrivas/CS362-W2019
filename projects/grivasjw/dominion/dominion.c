@@ -684,7 +684,7 @@ int adventurerEffect(struct gameState *state, int currentPlayer, int cardDrawn, 
  *					draw one less card than intended
  *			    2)	In the first for loop, the loop conditional was changed to i < 2 from i < 3, this should cause
  *					the players turn to draw 2 cards instead of 3
- *				3)	With bugs 1 nd 2 combined, the players turn will draw only 1 card, rather than the 3 intended
+ *				3)	With bugs 1 and 2 combined, the players turn will draw only 1 card, rather than the 3 intended
  */
 int smithyEffect(int currentPlayer, struct gameState *state, int handPos){
 	//+3 Cards
