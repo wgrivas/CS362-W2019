@@ -62,7 +62,7 @@ int main(int argc, char** argv)
 	printf("\nTest: Deck Count - Pass if correct, Fail if not correct\n");
 	compareStates(test.deckCount[player]-1, state.deckCount[player]);
 	
-	//Check the player hands count
+	//Check the player's hand count
 	printf("\n\nTest: Player's Hand Count - Pass if correct, Fail if not correct\n");
 	compareStates(test.handCount[player]-1, state.handCount[player]);
 	
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
 	printf("\n\nTest: # of Smithy Cards in Hand - Pass if correct, Fail if not correct\n");
 	compareStates(count1, count2-1);
 	
-	//Discard Test: Check if card was discarded
+	//Check if Smithy card was discarded
 	printf("\n\nTest: Smithy Card Discarded - Pass if discarded, Fail if not discarded\n");
 	compareStates(test.discardCount[player], state.discardCount[player]);
 	

@@ -3,7 +3,7 @@
  * Title: Assignment 3
  * Class: CS362 Software Engineering II
  * File: unittest1.c
- * Description: Unittest for buyCard(int supplyPos, struct gameState *state);
+ * Description: Unit test for buyCard(int supplyPos, struct gameState *state);
  *********************************************************************************************/
 
 #include "dominion.h"

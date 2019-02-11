@@ -73,11 +73,11 @@ int main(int argc, char** argv)
 	printf("\n\nTest: Played Great Hall Card - Pass if played, Fail if not played\n");
 	compareStates(test.playedCardCount+1, state.playedCardCount);
 	
-	//Discard Test: Check if card was discarded
-	printf("\n\nTest: Great Hall Discarded - Pass if discarded, Fail if not discarded\n");
+	//DCheck if Great Hall card was discarded
+	printf("\n\nTest: Great Hall Card Discarded - Pass if discarded, Fail if not discarded\n");
 	compareStates(test.discardCount[player], state.discardCount[player]);
 	
-	//Action Test: Check if the +1 Action was added
+	//Check if the +1 Action was added
 	printf("\n\nTest: +1 Action Added - Pass if 1 action added, Fail if 1 action not added\n");
 	compareStates(test.numActions+1, state.numActions);
 	

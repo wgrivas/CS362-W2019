@@ -89,10 +89,18 @@ int main(int argc, char** argv)
 	printf("\n\nTest: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct\n");
 	compareStates(count1, count2-1);
 	
-	
-	//Discard Test: Check if card was discarded
+	//Check if Adventurer card was discarded
 	printf("\n\nTest: Adventurer Card Discarded - Pass if discarded, Fail if not discarded\n");
 	compareStates(test.discardCount[player], state.discardCount[player]);
+	
+	//Check if Victory pile remains unchanged
+    printf("\n\nTest: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:\n");
+	printf("Province Cards\n");
+    compareStates(test.supplyCount[province],state.supplyCount[province]);
+	printf("\nDuchy Cards\n");
+    compareStates(test.supplyCount[duchy],state.supplyCount[duchy]);
+	printf("\nEstate Cards\n");
+    compareStates(test.supplyCount[estate],state.supplyCount[estate]);
 
 	
 	printf("\n\n--------------------End Test: Adventurer Card--------------------\n\n");

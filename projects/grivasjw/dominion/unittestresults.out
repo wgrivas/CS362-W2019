@@ -1008,6 +1008,14 @@ Result: FAILED
 Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
 Result: PASSED
 
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
 --------------------End Test: Adventurer Card--------------------
 
 Function 'updateCoins'
@@ -1366,7 +1374,7 @@ Result: PASSED
 Test: Played Great Hall Card - Pass if played, Fail if not played
 Result: PASSED
 
-Test: Great Hall Discarded - Pass if discarded, Fail if not discarded
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
 Result: PASSED
 
 Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added

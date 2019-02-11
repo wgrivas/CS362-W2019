@@ -3,7 +3,7 @@
  * Title: Assignment 3
  * Class: CS362 Software Engineering II
  * File: unittest2.c
- * Description: Unittest for getCost(int cardNumber);
+ * Description: Unit test for getCost(int cardNumber);
  *********************************************************************************************/
 
 #include "dominion.h"

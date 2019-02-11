@@ -3,7 +3,7 @@
  * Title: Assignment 3
  * Class: CS362 Software Engineering II
  * File: unittest3.c
- * Description: Unittest for updateCoins(int player, struct gameState *state, int bonus);
+ * Description: Unit test for updateCoins(int player, struct gameState *state, int bonus);
  *********************************************************************************************/
 
 #include "dominion.h"

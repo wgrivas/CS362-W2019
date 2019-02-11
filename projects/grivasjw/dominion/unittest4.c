@@ -3,7 +3,7 @@
  * Title: Assignment 3
  * Class: CS362 Software Engineering II
  * File: unittest4.c
- * Description: Unittest for whoseTurn(struct gameState *state);
+ * Description: Unit test for whoseTurn(struct gameState *state);
  *********************************************************************************************/
 
 #include "dominion.h"
