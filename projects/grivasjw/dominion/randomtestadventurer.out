@@ -1,0 +1,3266 @@
+randomtestadventurer.c:
+
+
+--------------------Testing Adventurer Card: 1 of 100--------------------
+Number of players: 7
+Seed: 4451
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: FAILED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 2 of 100--------------------
+Number of players: 43
+Seed: 496
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 3 of 100--------------------
+Number of players: 21
+Seed: 2853
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 4 of 100--------------------
+Number of players: 39
+Seed: 295
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 5 of 100--------------------
+Number of players: 9
+Seed: 4414
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 6 of 100--------------------
+Number of players: 14
+Seed: 4261
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 7 of 100--------------------
+Number of players: 20
+Seed: 4055
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 8 of 100--------------------
+Number of players: 19
+Seed: 4453
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 9 of 100--------------------
+Number of players: 21
+Seed: 1516
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 10 of 100--------------------
+Number of players: 38
+Seed: 545
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 11 of 100--------------------
+Number of players: 27
+Seed: 4612
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 12 of 100--------------------
+Number of players: 34
+Seed: 2727
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 13 of 100--------------------
+Number of players: 35
+Seed: 3307
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 14 of 100--------------------
+Number of players: 47
+Seed: 2982
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 15 of 100--------------------
+Number of players: 49
+Seed: 1486
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 16 of 100--------------------
+Number of players: 36
+Seed: 1306
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 17 of 100--------------------
+Number of players: 39
+Seed: 1131
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 18 of 100--------------------
+Number of players: 4
+Seed: 4810
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 19 of 100--------------------
+Number of players: 34
+Seed: 393
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: FAILED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 20 of 100--------------------
+Number of players: 7
+Seed: 1295
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 21 of 100--------------------
+Number of players: 7
+Seed: 2121
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 22 of 100--------------------
+Number of players: 6
+Seed: 1430
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 23 of 100--------------------
+Number of players: 28
+Seed: 4177
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 24 of 100--------------------
+Number of players: 33
+Seed: 4601
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 25 of 100--------------------
+Number of players: 43
+Seed: 871
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 26 of 100--------------------
+Number of players: 47
+Seed: 422
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 27 of 100--------------------
+Number of players: 35
+Seed: 3733
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 28 of 100--------------------
+Number of players: 49
+Seed: 2521
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 29 of 100--------------------
+Number of players: 40
+Seed: 846
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 30 of 100--------------------
+Number of players: 5
+Seed: 3641
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 31 of 100--------------------
+Number of players: 35
+Seed: 1493
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 32 of 100--------------------
+Number of players: 47
+Seed: 974
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 33 of 100--------------------
+Number of players: 24
+Seed: 3101
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 34 of 100--------------------
+Number of players: 37
+Seed: 2960
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 35 of 100--------------------
+Number of players: 46
+Seed: 4946
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 36 of 100--------------------
+Number of players: 5
+Seed: 1005
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 37 of 100--------------------
+Number of players: 18
+Seed: 4811
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 38 of 100--------------------
+Number of players: 35
+Seed: 948
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 39 of 100--------------------
+Number of players: 38
+Seed: 4670
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 40 of 100--------------------
+Number of players: 0
+Seed: 1033
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 41 of 100--------------------
+Number of players: 44
+Seed: 2049
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 42 of 100--------------------
+Number of players: 5
+Seed: 3729
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 43 of 100--------------------
+Number of players: 32
+Seed: 4605
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 44 of 100--------------------
+Number of players: 2
+Seed: 4174
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: FAILED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 45 of 100--------------------
+Number of players: 3
+Seed: 809
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: FAILED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 46 of 100--------------------
+Number of players: 15
+Seed: 488
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: FAILED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 47 of 100--------------------
+Number of players: 2
+Seed: 2762
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 48 of 100--------------------
+Number of players: 15
+Seed: 1278
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: FAILED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 49 of 100--------------------
+Number of players: 15
+Seed: 1304
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 50 of 100--------------------
+Number of players: 38
+Seed: 2061
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 51 of 100--------------------
+Number of players: 0
+Seed: 3493
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 52 of 100--------------------
+Number of players: 18
+Seed: 4670
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 53 of 100--------------------
+Number of players: 4
+Seed: 1854
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: FAILED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 54 of 100--------------------
+Number of players: 21
+Seed: 3644
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: FAILED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 55 of 100--------------------
+Number of players: 26
+Seed: 2521
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 56 of 100--------------------
+Number of players: 29
+Seed: 4770
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 57 of 100--------------------
+Number of players: 22
+Seed: 2485
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 58 of 100--------------------
+Number of players: 2
+Seed: 1704
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 59 of 100--------------------
+Number of players: 42
+Seed: 2454
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: FAILED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 60 of 100--------------------
+Number of players: 28
+Seed: 1597
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 61 of 100--------------------
+Number of players: 14
+Seed: 45
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 62 of 100--------------------
+Number of players: 38
+Seed: 566
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 63 of 100--------------------
+Number of players: 7
+Seed: 2605
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 64 of 100--------------------
+Number of players: 45
+Seed: 1374
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 65 of 100--------------------
+Number of players: 9
+Seed: 2435
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 66 of 100--------------------
+Number of players: 35
+Seed: 1511
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 67 of 100--------------------
+Number of players: 29
+Seed: 4205
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 68 of 100--------------------
+Number of players: 32
+Seed: 4233
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 69 of 100--------------------
+Number of players: 11
+Seed: 3153
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 70 of 100--------------------
+Number of players: 30
+Seed: 288
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 71 of 100--------------------
+Number of players: 26
+Seed: 259
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 72 of 100--------------------
+Number of players: 10
+Seed: 2948
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 73 of 100--------------------
+Number of players: 46
+Seed: 1262
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 74 of 100--------------------
+Number of players: 4
+Seed: 3890
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 75 of 100--------------------
+Number of players: 17
+Seed: 3234
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: FAILED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 76 of 100--------------------
+Number of players: 40
+Seed: 3333
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 77 of 100--------------------
+Number of players: 29
+Seed: 278
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 78 of 100--------------------
+Number of players: 1
+Seed: 2438
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 79 of 100--------------------
+Number of players: 33
+Seed: 3448
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 80 of 100--------------------
+Number of players: 12
+Seed: 3144
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 81 of 100--------------------
+Number of players: 34
+Seed: 3599
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 82 of 100--------------------
+Number of players: 5
+Seed: 1813
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 83 of 100--------------------
+Number of players: 4
+Seed: 2189
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 84 of 100--------------------
+Number of players: 48
+Seed: 216
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: FAILED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 85 of 100--------------------
+Number of players: 44
+Seed: 1628
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 86 of 100--------------------
+Number of players: 4
+Seed: 3720
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: FAILED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 87 of 100--------------------
+Number of players: 40
+Seed: 1914
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: FAILED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 88 of 100--------------------
+Number of players: 20
+Seed: 3688
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 89 of 100--------------------
+Number of players: 29
+Seed: 376
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 90 of 100--------------------
+Number of players: 31
+Seed: 3246
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 91 of 100--------------------
+Number of players: 10
+Seed: 771
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 92 of 100--------------------
+Number of players: 29
+Seed: 3241
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 93 of 100--------------------
+Number of players: 49
+Seed: 3182
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 94 of 100--------------------
+Number of players: 29
+Seed: 284
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 95 of 100--------------------
+Number of players: 31
+Seed: 4491
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 96 of 100--------------------
+Number of players: 28
+Seed: 2515
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 97 of 100--------------------
+Number of players: 40
+Seed: 4435
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 98 of 100--------------------
+Number of players: 28
+Seed: 895
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 99 of 100--------------------
+Number of players: 25
+Seed: 1726
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------Testing Adventurer Card: 100 of 100--------------------
+Number of players: 13
+Seed: 3319
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Player's Hand Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Adventurer Card - Pass if played, Fail if not played
+Result: FAILED
+
+Test: # of Adventurer Cards in Hand - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Adventurer Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: Victory Supply Piles Remain Unchanged - Pass if unchanged, Fail if changed:
+Province Cards
+Result: PASSED
+Duchy Cards
+Result: PASSED
+Estate Cards
+Result: PASSED
+
+--------------------End Test: Adventurer Card--------------------
+
+Function 'updateCoins'
+Lines executed:81.82% of 11
+Branches executed:100.00% of 8
+Taken at least once:75.00% of 8
+No calls
+
+Function 'gainCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 1
+
+Function 'discardCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+No calls
+
+Function 'cardEffect'
+Lines executed:5.29% of 208
+Branches executed:12.85% of 179
+Taken at least once:1.68% of 179
+Calls executed:3.45% of 58
+
+Function 'council_roomEffect'
+Lines executed:0.00% of 9
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 3
+
+Function 'great_hallEffect'
+Lines executed:0.00% of 5
+No branches
+Calls executed:0.00% of 2
+
+Function 'villageEffect'
+Lines executed:0.00% of 5
+No branches
+Calls executed:0.00% of 2
+
+Function 'smithyEffect'
+Lines executed:0.00% of 5
+Branches executed:0.00% of 2
+Taken at least once:0.00% of 2
+Calls executed:0.00% of 2
+
+Function 'adventurerEffect'
+Lines executed:100.00% of 15
+Branches executed:100.00% of 12
+Taken at least once:83.33% of 12
+Calls executed:100.00% of 2
+
+Function 'getCost'
+Lines executed:0.00% of 30
+Branches executed:0.00% of 28
+Taken at least once:0.00% of 28
+No calls
+
+Function 'drawCard'
+Lines executed:100.00% of 22
+Branches executed:100.00% of 6
+Taken at least once:100.00% of 6
+Calls executed:100.00% of 1
+
+Function 'getWinners'
+Lines executed:0.00% of 24
+Branches executed:0.00% of 22
+Taken at least once:0.00% of 22
+Calls executed:0.00% of 2
+
+Function 'scoreFor'
+Lines executed:0.00% of 24
+Branches executed:0.00% of 42
+Taken at least once:0.00% of 42
+Calls executed:0.00% of 3
+
+Function 'isGameOver'
+Lines executed:0.00% of 10
+Branches executed:0.00% of 8
+Taken at least once:0.00% of 8
+No calls
+
+Function 'endTurn'
+Lines executed:0.00% of 20
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 3
+
+Function 'whoseTurn'
+Lines executed:100.00% of 2
+No branches
+No calls
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 9
+Branches executed:0.00% of 12
+Taken at least once:0.00% of 12
+No calls
+
+Function 'supplyCount'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'handCard'
+Lines executed:0.00% of 3
+No branches
+Calls executed:0.00% of 1
+
+Function 'numHandCards'
+Lines executed:0.00% of 2
+No branches
+Calls executed:0.00% of 1
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 4
+
+Function 'playCard'
+Lines executed:0.00% of 14
+Branches executed:0.00% of 10
+Taken at least once:0.00% of 10
+Calls executed:0.00% of 3
+
+Function 'shuffle'
+Lines executed:100.00% of 16
+Branches executed:100.00% of 8
+Taken at least once:100.00% of 8
+Calls executed:100.00% of 2
+
+Function 'initializeGame'
+Lines executed:91.94% of 62
+Branches executed:95.65% of 46
+Taken at least once:86.96% of 46
+Calls executed:100.00% of 5
+
+Function 'kingdomCards'
+Lines executed:0.00% of 13
+No branches
+No calls
+
+Function 'newGame'
+Lines executed:0.00% of 3
+No branches
+No calls
+
+Function 'compare'
+Lines executed:100.00% of 6
+Branches executed:100.00% of 4
+Taken at least once:100.00% of 4
+No calls
+
+File 'dominion.c'
+Lines executed:24.69% of 559
+Branches executed:25.18% of 417
+Taken at least once:18.47% of 417
+Calls executed:12.63% of 95
+Creating 'dominion.c.gcov'
+
