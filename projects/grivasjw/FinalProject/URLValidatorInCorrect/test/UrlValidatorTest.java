@@ -25,19 +25,19 @@ public class UrlValidatorTest extends TestCase {
 	  UrlValidator urlValidator = new UrlValidator(null, null, UrlValidator.ALLOW_ALL_SCHEMES);
       
 	  assertTrue(urlValidator.isValid("http://www.google.com"));
-      assertFalse(urlValidator.isValid("ftp://www.google.com"));
+	  assertFalse(urlValidator.isValid("ftp://www.google.com"));
 	  assertFalse(urlValidator.isValid("38pt://google.com")); //38pt not valid
 	  assertTrue(urlValidator.isValid("https://www.google.com"));
 	  assertTrue(urlValidator.isValid("http://www.go.au"));
-      assertTrue(urlValidator.isValid("ftp://ftp.myexample.com"));
-      assertTrue(urlValidator.isValid("http://www.oracle.org/"));
-      assertFalse(urlValidator.isValid("1.1.1.1"));
+	  assertTrue(urlValidator.isValid("ftp://ftp.myexample.com"));
+	  assertTrue(urlValidator.isValid("http://www.oracle.org/"));
+	  assertFalse(urlValidator.isValid("1.1.1.1"));
 	  assertFalse(urlValidator.isValid("http://1.2.3.400/")); //greater than 255 not valid
 	  assertTrue(urlValidator.isValid("http://www.amazon.com/"));
-      assertFalse(urlValidator.isValid("www.amazon.com/x/y/z"));
-      assertTrue(urlValidator.isValid("http://www.amazon.com:80/abcde"));
-      assertTrue(urlValidator.isValid("http://www.amazon.com/abcde?x=y&y=z"));
-      assertTrue(urlValidator.isValid("http://www.amazon.com/abcde?x=!"));
+	  assertFalse(urlValidator.isValid("www.amazon.com/x/y/z"));
+	  assertTrue(urlValidator.isValid("http://www.amazon.com:80/abcde"));
+	  assertTrue(urlValidator.isValid("http://www.amazon.com/abcde?x=y&y=z"));
+	  assertTrue(urlValidator.isValid("http://www.amazon.com/abcde?x=!"));
       
    }
    
