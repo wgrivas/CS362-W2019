@@ -313,8 +313,9 @@ public class UrlValidator implements Serializable {
         String authority = urlMatcher.group(PARSE_URL_AUTHORITY);
         if ("file".equals(scheme)) {// Special case - file: allows an empty authority 
             if (authority != null) {
+            	
                 if (authority.contains(".")) { // but cannot allow trailing :
-                    return false;   //BUG ADDED: CHANGED ":" CASE TO "." CASE
+                    return false;   //BUG ADDED: CHANGED ":" CASE TO null CASE
                 }
             }
             // drop through to continue validation
@@ -326,7 +327,7 @@ public class UrlValidator implements Serializable {
         }
 
         if (!isValidPath(urlMatcher.group(PARSE_URL_PATH)) && !isValidQuery(urlMatcher.group(PARSE_URL_QUERY))) {
-            return false;       //BUG ADDED: MERGED THIS AND THE NEXT IF STATEMENT TO ONE, CONJOINED WITH AN AND
+            return false;       
         }
         /*
         if (!isValidQuery(urlMatcher.group(PARSE_URL_QUERY))) {

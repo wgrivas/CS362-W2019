@@ -1,14 +1,14 @@
 
 
 import junit.framework.TestCase;
+import java.util.Random;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.io.Serializable;
-import java.util.Random;
 //You can use this as a skeleton for your 3 different test approach
 //It is an optional to use this file, you can generate your own test file(s) to test the target function!
-//Again, it is up to you to use this file or not!
+// Again, it is up to you to use this file or not!
 
 
 
@@ -37,32 +37,34 @@ public class UrlValidatorTest extends TestCase {
 
    
    
-   public static void testManualTest()
+   public void testManualTest()
    {
 //You can use this function to implement your manual testing
-	  UrlValidator urlValidator = new UrlValidator(null, null, UrlValidator.ALLOW_ALL_SCHEMES);
-      
-	  assertTrue(urlValidator.isValid("http://www.google.com"));
-	  assertFalse(urlValidator.isValid("ftp://www.google.com"));
-	  assertFalse(urlValidator.isValid("38pt://google.com")); //38pt not valid
-	  assertTrue(urlValidator.isValid("https://www.google.com"));
-	  assertTrue(urlValidator.isValid("http://www.go.au"));
-	  assertTrue(urlValidator.isValid("ftp://ftp.myexample.com"));
-	  assertFalse(urlValidator.isValid("http://www.oracle.org/.."));
-	  assertFalse(urlValidator.isValid("1.1.1.1"));
-	  assertFalse(urlValidator.isValid("http://1.2.3.400/")); //greater than 255 not valid
-	  assertTrue(urlValidator.isValid("file://1.2.3.244/"));
-	  assertFalse(urlValidator.isValid("http://www.amazon.com/x/sjkd*&^%$@"));
-	  assertTrue(urlValidator.isValid("http://www.amazon.com:80/abcde"));
-	  assertTrue(urlValidator.isValid("http://www.amazon.com/abcde?x=y&y=z"));
-	  assertTrue(urlValidator.isValid("http://www.amazon.com/abcde?x=!"));	   
+	   UrlValidator urlValidator = new UrlValidator(null, null, UrlValidator.ALLOW_ALL_SCHEMES);
+	      
+	   assertTrue(urlValidator.isValid("http://www.google.com"));
+	   assertFalse(urlValidator.isValid("ftp://www.google.com"));
+	   assertFalse(urlValidator.isValid("38pt://google.com")); //38pt not valid
+	   assertTrue(urlValidator.isValid("https://www.google.com"));
+	   assertTrue(urlValidator.isValid("http://www.go.au"));
+	   assertTrue(urlValidator.isValid("ftp://ftp.myexample.com"));
+	   assertFalse(urlValidator.isValid("http://www.oracle.org/.."));
+	   assertFalse(urlValidator.isValid("1.1.1.1"));
+	   assertFalse(urlValidator.isValid("http://1.2.3.400/")); //greater than 255 not valid
+	   assertTrue(urlValidator.isValid("file://1.2.3.244/"));
+	   assertFalse(urlValidator.isValid("http://www.amazon.com/x/sjkd*&^%$@"));
+	   assertTrue(urlValidator.isValid("http://www.amazon.com:80/abcde"));
+	   assertTrue(urlValidator.isValid("http://www.amazon.com/abcde?x=y&y=z"));
+	   assertTrue(urlValidator.isValid("http://www.amazon.com/abcde?x=!")); 
 	   
    }
    
    
-   public void testYourFirstPartition()
+   public static void testYourFirstPartition()
    {
-	UrlValidator url = new UrlValidator();
+	 //You can use this function to implement your First Partition testing
+	   
+	   UrlValidator url = new UrlValidator();
 	   int passCount = 0;
 	   int testCount = 0;
 	 //You can use this function to implement your First Partition testing	  
@@ -89,49 +91,47 @@ public class UrlValidatorTest extends TestCase {
 	   	//System.out.println(testInput);
 	   //System.out.println(passCount);
 	   }
-	   System.out.println(passCount + " passed out of " + testCount + " tests");
+System.out.println(passCount + " passed out of " + testCount + " tests");
 
    }
    
-   public void testYourSecondPartition(){
-		 //You can use this function to implement your Second Partition testing	   
-				 //You can use this function to implement your Second Partition testing
-				 String[] schemeParams = {null, "http.//", "file", "http", "://"};
-				 UrlValidator url = new UrlValidator();
-				 int passCount = 0;
-				 int testCount = 0;  
-				 Random rand =  new Random();
-				 final String inputs = "abcdefghijklmnopqrstuvwxyz./1234567890 ";
-				 final int N = inputs.length();
-				 String testInput = null;
-				 
-				 while(testCount < 10000000) {
-					 testCount++;
-					 testInput = String.valueOf(inputs.charAt(rand.nextInt(N)));
-					 for (int i = 0; i < 6; i++) {
-						 testInput = testInput + inputs.charAt(rand.nextInt(N));
-					 }
-					 String urlInput = schemeParams[rand.nextInt(4)] + testInput;
-					 System.out.println(testInput);
-					 System.out.println(urlInput);
-					 Matcher urlMatcherAuthority = URL_PATTERN.matcher(testInput);
-					  urlMatcherAuthority.matches();
-					 //System.out.println(url.isValidAuthority(null));
-					 if(url.isValidAuthority(testInput) == url.isValid(urlInput)){
-						 //System.out.println("VALID SCHEME CASE PASSED!");
-						 passCount ++;
-					 }
-					 else {
-						 System.out.println("VALID SCHEME CASE FAILED!");
-						 break;
-					 }
-					 //System.out.println(testInput);
-				 //System.out.println(passCount);
-				 }
-				 System.out.println(passCount + " passed out of " + testCount + " tests");
-				 
-				 
-		  
+   public static void testYourSecondPartition(){
+		 //You can use this function to implement your Second Partition testing
+	   
+		 String[] schemeParams = {null, "http.//", "file", "http", "://"};
+		 UrlValidator url = new UrlValidator();
+		 int passCount = 0;
+		 int testCount = 0;  
+		 Random rand =  new Random();
+		 final String inputs = "abcdefghijklmnopqrstuvwxyz./1234567890 ";
+		 final int N = inputs.length();
+		 String testInput = null;
+		 
+		 while(testCount < 10000000) {
+			 testCount++;
+			 testInput = String.valueOf(inputs.charAt(rand.nextInt(N)));
+			 for (int i = 0; i < 6; i++) {
+				 testInput = testInput + inputs.charAt(rand.nextInt(N));
+			 }
+			 String urlInput = schemeParams[rand.nextInt(4)] + testInput;
+			 System.out.println(testInput);
+			 System.out.println(urlInput);
+			 Matcher urlMatcherAuthority = URL_PATTERN.matcher(testInput);
+			  urlMatcherAuthority.matches();
+			 //System.out.println(url.isValidAuthority(null));
+			 if(url.isValidAuthority(testInput) == url.isValid(urlInput)){
+				 //System.out.println("VALID SCHEME CASE PASSED!");
+				 passCount ++;
+			 }
+			 else {
+				 System.out.println("VALID SCHEME CASE FAILED!");
+				 break;
+			 }
+			 //System.out.println(testInput);
+		 //System.out.println(passCount);
+		 }
+System.out.println(passCount + " passed out of " + testCount + " tests");
+
    }
    //You need to create more test cases for your Partitions if you need to 
    
@@ -144,7 +144,7 @@ public class UrlValidatorTest extends TestCase {
   	   			null,
   	   			"htyy",
   	   			"https://1.2.3.4.5",
-  	   			"file://0.0.0.0/to/file",
+  	   			"file://users//path/to/file",
   	   			"http://www.google.com/..",
   	   			"http://www.google.com/test1/sie09~~osnfi?????????##$$&&",
   	   			"http://www.bing.com/news"
@@ -182,7 +182,7 @@ public class UrlValidatorTest extends TestCase {
    		//Expected output: indication of a false URL
 		Matcher urlMatcherAuthority = URL_PATTERN.matcher(unittestparam[2]);
 		urlMatcherAuthority.matches();
-		String authority = urlMatcherAuthority.group(PARSE_URL_SCHEME);
+		String authority = urlMatcherAuthority.group(PARSE_URL_AUTHORITY);
 		if(url.isValidAuthority(authority) == url.isValid(unittestparam[2])){
 			System.out.println("VALID AUTHORITY CASE PASSED!");
 
@@ -195,7 +195,7 @@ public class UrlValidatorTest extends TestCase {
    		//Expected output: indication of a True URL
 		Matcher urlMatcherAuthorityFile = URL_PATTERN.matcher(unittestparam[3]);
 		urlMatcherAuthorityFile.matches();
-		String authorityFile = urlMatcherAuthorityFile.group(PARSE_URL_SCHEME);
+		String authorityFile = urlMatcherAuthorityFile.group(PARSE_URL_AUTHORITY);
 		if(url.isValidAuthority(authorityFile) == url.isValid(unittestparam[3])){
 			System.out.println("VALID FILE AUTHORITY CASE PASSED!");
 		}
@@ -272,10 +272,9 @@ public class UrlValidatorTest extends TestCase {
    
    public static void main(String[] args){
 
-		testManualTest();
 		testIsValid();
 		testYourFirstPartition();
-
+		testYourSecondPartition();
 
 	}
    
