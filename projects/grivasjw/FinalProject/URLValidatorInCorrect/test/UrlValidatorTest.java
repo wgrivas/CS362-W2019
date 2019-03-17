@@ -95,7 +95,43 @@ public class UrlValidatorTest extends TestCase {
    
    public void testYourSecondPartition(){
 		 //You can use this function to implement your Second Partition testing	   
-
+				 //You can use this function to implement your Second Partition testing
+				 String[] schemeParams = {null, "http.//", "file", "http", "://"};
+				 UrlValidator url = new UrlValidator();
+				 int passCount = 0;
+				 int testCount = 0;  
+				 Random rand =  new Random();
+				 final String inputs = "abcdefghijklmnopqrstuvwxyz./1234567890 ";
+				 final int N = inputs.length();
+				 String testInput = null;
+				 
+				 while(testCount < 10000000) {
+					 testCount++;
+					 testInput = String.valueOf(inputs.charAt(rand.nextInt(N)));
+					 for (int i = 0; i < 6; i++) {
+						 testInput = testInput + inputs.charAt(rand.nextInt(N));
+					 }
+					 String urlInput = schemeParams[rand.nextInt(4)] + testInput;
+					 System.out.println(testInput);
+					 System.out.println(urlInput);
+					 Matcher urlMatcherAuthority = URL_PATTERN.matcher(testInput);
+					  urlMatcherAuthority.matches();
+					 //System.out.println(url.isValidAuthority(null));
+					 if(url.isValidAuthority(testInput) == url.isValid(urlInput)){
+						 //System.out.println("VALID SCHEME CASE PASSED!");
+						 passCount ++;
+					 }
+					 else {
+						 System.out.println("VALID SCHEME CASE FAILED!");
+						 break;
+					 }
+					 //System.out.println(testInput);
+				 //System.out.println(passCount);
+				 }
+				 System.out.println(passCount + " passed out of " + testCount + " tests");
+				 
+				 
+		  
    }
    //You need to create more test cases for your Partitions if you need to 
    
