@@ -37,7 +37,7 @@ public class UrlValidatorTest extends TestCase {
 
    
    
-   public void testManualTest()
+   public static void testManualTest()
    {
 //You can use this function to implement your manual testing
 	   UrlValidator urlValidator = new UrlValidator(null, null, UrlValidator.ALLOW_ALL_SCHEMES);
@@ -61,77 +61,125 @@ public class UrlValidatorTest extends TestCase {
    
    
    public static void testYourFirstPartition()
-   {
-	 //You can use this function to implement your First Partition testing
-	   
+   {	   
+	   //First partition: scheme
+	   // generating a random scheme with a valid authority and 
+	   // path until an error is found or until it has been run 
+	   // a set number of times
 	   UrlValidator url = new UrlValidator();
 	   int passCount = 0;
-	   int testCount = 0;
-	 //You can use this function to implement your First Partition testing	  
+	   int testCount = 0;	  
 	   Random rand =  new Random();
 	   final String inputs = "abcdefghijklmnopqrstuvwxyz./";
 	   final int N = inputs.length();
 	   String testInput = null;
+
+	   //loop a set number of times or until break in fail state
 	   while(testCount < 10000000) {
 		   testCount++;
+		   //create random string
 		   testInput = String.valueOf(inputs.charAt(rand.nextInt(N)));
-		   for (int i = 0; i < 6; i++) {
+		   for (int i = 0; i < rand.nextInt(6); i++) {
 			   testInput = testInput + inputs.charAt(rand.nextInt(N));
 		   }
-		   String urlInput = testInput + "www.google.com/";
-	   
+		   //fill random url with correct authority and path
+		   String urlInput = testInput + "www.google.com/test1";
+		   //check pass == isValid and isValidScheme output same bool
 		   if(url.isValidScheme(testInput) == url.isValid(urlInput)){
 			   //System.out.println("VALID SCHEME CASE PASSED!");
 			   passCount ++;
 		   }
 		   else {
 			   System.out.println("VALID SCHEME CASE FAILED!");
+			   System.out.println(urlInput);
+			   System.out.println("url was determined " + url.isValid(urlInput) + " when scheme is " + url.isValidScheme(testInput));
 			   break;
 		   }
-	   	//System.out.println(testInput);
-	   //System.out.println(passCount);
 	   }
-System.out.println(passCount + " passed out of " + testCount + " tests");
+	//print how many tests were run and how many passed
+	System.out.println(passCount + " schemes passed out of " + testCount + " tests");
 
    }
    
    public static void testYourSecondPartition(){
-		 //You can use this function to implement your Second Partition testing
+		 //Second partition: authority and path (since input data set is the same)
+		 // generating a random authority with a valid scheme and 
+	   	 // path until an error is found or until it has been run 
+		 // a set number of times. repeat for path 
 	   
-		 String[] schemeParams = {null, "http.//", "file", "http", "://"};
+		 String[] schemeParams = {"http.//", "ftp://", "h3t://"};
 		 UrlValidator url = new UrlValidator();
 		 int passCount = 0;
 		 int testCount = 0;  
 		 Random rand =  new Random();
+		 //input data set, includes numbers
 		 final String inputs = "abcdefghijklmnopqrstuvwxyz./1234567890 ";
 		 final int N = inputs.length();
 		 String testInput = null;
-		 
+
+		 //loop a set number of times or until break in fail state
 		 while(testCount < 10000000) {
 			 testCount++;
+			 //generate random string
 			 testInput = String.valueOf(inputs.charAt(rand.nextInt(N)));
-			 for (int i = 0; i < 6; i++) {
+			 for (int i = 0; i < rand.nextInt(10); i++) {
 				 testInput = testInput + inputs.charAt(rand.nextInt(N));
 			 }
-			 String urlInput = schemeParams[rand.nextInt(4)] + testInput;
-			 System.out.println(testInput);
-			 System.out.println(urlInput);
+			 //generate random url with valid scheme and path
+			 String urlInput = schemeParams[rand.nextInt(3)] + testInput + "/test1";
 			 Matcher urlMatcherAuthority = URL_PATTERN.matcher(testInput);
 			  urlMatcherAuthority.matches();
-			 //System.out.println(url.isValidAuthority(null));
+
+			 //check pass == isValid and isValidAuthority output same bool
 			 if(url.isValidAuthority(testInput) == url.isValid(urlInput)){
 				 //System.out.println("VALID SCHEME CASE PASSED!");
 				 passCount ++;
 			 }
 			 else {
-				 System.out.println("VALID SCHEME CASE FAILED!");
+				 System.out.println("VALID AUTHORITY CASE FAILED!");
+				 System.out.println(urlInput);
+				 System.out.println("url was determined " + url.isValid(urlInput) + " when authority is " + url.isValidAuthority(testInput));
 				 break;
 			 }
 			 //System.out.println(testInput);
 		 //System.out.println(passCount);
 		 }
-System.out.println(passCount + " passed out of " + testCount + " tests");
+		 System.out.println(passCount + " authorities passed out of " + testCount + " tests");
+		 
+		 // repeat for path
+		 testCount = 0;
+		 passCount = 0;
 
+		 //loop a set number of times or until break in fail state
+		 while(testCount < 10000000) {
+			 testCount++;
+			 //generate random string
+			 testInput = String.valueOf(inputs.charAt(rand.nextInt(N)));
+			 for (int i = 0; i < rand.nextInt(8); i++) {
+				 testInput = testInput + inputs.charAt(rand.nextInt(N));
+			 }
+			 //generate random url with valid sheme and authority
+			 String urlInput = schemeParams[rand.nextInt(3)] + "www.google.com" +  testInput;
+			 //System.out.println(testInput);
+			 //System.out.println(urlInput);
+			 Matcher urlMatcherPath = URL_PATTERN.matcher(urlInput);
+			urlMatcherPath.matches();
+			
+   			 //check pass == isValid and isValidAuthority output same bool
+			if(url.isValidPath(testInput) == url.isValid(urlInput)){
+				//System.out.println("VALID PATH CASE PASSED!");
+				passCount ++;
+			}
+			 else {
+				System.out.println("VALID PATH CASE FAILED!");
+				System.out.println(urlInput);
+				System.out.println("url was determined " + url.isValid(urlInput) + " when path is " + url.isValidPath(testInput));
+				break;
+			}
+			 //System.out.println(testInput);
+		 //System.out.println(passCount);
+		}
+		System.out.println(passCount + " paths passed out of " + testCount + " tests");
    }
    //You need to create more test cases for your Partitions if you need to 
    
@@ -271,10 +319,13 @@ System.out.println(passCount + " passed out of " + testCount + " tests");
    }
    
    public static void main(String[] args){
-
+	    System.out.println("---UNIT TESTS:");
 		testIsValid();
+		System.out.println("---RANDOM TESTS:");
 		testYourFirstPartition();
 		testYourSecondPartition();
+		System.out.println("---MANUAL TESTS:");
+		testManualTest();
 
 	}
    
