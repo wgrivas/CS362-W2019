@@ -164,7 +164,7 @@ public class UrlValidator implements Serializable {
      */
     private static final int PARSE_AUTHORITY_EXTRA = 4;
 
-    private static final String PATH_REGEX = "^(/[-\\w:@&?=+,.!*'%$_;\\(\\)]*)?$";
+    private static final String PATH_REGEX = "^(/[-\\w:@&?=+,.!/~*'%$_;\\(\\)]*)?$";
     private static final Pattern PATH_PATTERN = Pattern.compile(PATH_REGEX);
 
     private static final String QUERY_REGEX = "^(\\S*)$";
@@ -189,9 +189,7 @@ public class UrlValidator implements Serializable {
     /**
      * If no schemes are provided, default to this set.
      */
-   private static final String[] DEFAULT_SCHEMES = {"http", "https", "ftp"}; // Must be lower-case
-
-
+    private static final String[] DEFAULT_SCHEMES = {"http", "https", "ftp"}; // Must be lower-case
 
     /**
      * Singleton instance of this class with default schemes and options.
@@ -279,8 +277,7 @@ public class UrlValidator implements Serializable {
             }
             allowedSchemes = new HashSet<String>(schemes.length);
             for(int i=0; i < schemes.length; i++) {
-                allowedSchemes.add(schemes[i].toUpperCase(Locale.ENGLISH));
-
+                allowedSchemes.add(schemes[i].toLowerCase(Locale.ENGLISH));
             }
         }
 
@@ -314,11 +311,10 @@ public class UrlValidator implements Serializable {
         }
 
         String authority = urlMatcher.group(PARSE_URL_AUTHORITY);
-
-        if ("http".equals(scheme)) {// Special case - file: allows an empty authority
+        if ("file".equals(scheme)) {// Special case - file: allows an empty authority 
             if (authority != null) {
-                if (authority.contains(":")) { // but cannot allow trailing :
-                    return false;
+                if (authority.contains("/")) { // but cannot allow trailing :
+                    return false;   //BUG ADDED: CHANGED ":" CASE TO "/" CASE
                 }
             }
             // drop through to continue validation
@@ -329,14 +325,14 @@ public class UrlValidator implements Serializable {
             }
         }
 
-        if (!isValidPath(urlMatcher.group(PARSE_URL_PATH))) {
-            return false;
+        if (!isValidPath(urlMatcher.group(PARSE_URL_PATH)) && !isValidQuery(urlMatcher.group(PARSE_URL_QUERY))) {
+            return false;       //BUG ADDED: MERGED THIS AND THE NEXT IF STATEMENT TO ONE, CONJOINED WITH AN AND
         }
-
+        /*
         if (!isValidQuery(urlMatcher.group(PARSE_URL_QUERY))) {
             return false;
         }
-
+        */
         if (!isValidFragment(urlMatcher.group(PARSE_URL_FRAGMENT))) {
             return false;
         }
