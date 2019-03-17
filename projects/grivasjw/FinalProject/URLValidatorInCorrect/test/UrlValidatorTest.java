@@ -80,7 +80,7 @@ public class UrlValidatorTest extends TestCase {
   	   			null,
   	   			"htyy",
   	   			"https://1.2.3.4.5",
-  	   			"file:///path/to/file",
+  	   			"file://0.0.0.0/to/file",
   	   			"http://www.google.com/..",
   	   			"http://www.google.com/test1/sie09~~osnfi?????????##$$&&",
   	   			"http://www.bing.com/news"
