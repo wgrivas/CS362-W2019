@@ -657,6 +657,7 @@ void adventurerCard(int drawntreasure, int currentPlayer, struct gameState *stat
       shuffle(currentPlayer, state);
     }
     drawCard(currentPlayer, state);
+	//int cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];
     if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold)
       drawntreasure++;
     else{
@@ -673,10 +674,11 @@ void adventurerCard(int drawntreasure, int currentPlayer, struct gameState *stat
 
 void smithyCard(int currentPlayer, struct gameState *state, int handPos)
 {
-      for (int i = 0; i == 3; i++)   //bug introduced: draws 4 times instead of 3
-  {
-    drawCard(currentPlayer, state);
-  }
+      //for (int i = 0; i == 3; i++)   //bug introduced: draws 4 times instead of 3
+	  for (int i = 0; i < 3; i++)
+	  {
+		drawCard(currentPlayer, state);
+	  }
       
       //discard card from hand
       discardCard(handPos, currentPlayer, state, 0);
@@ -710,7 +712,8 @@ void villageCard(int currentPlayer, struct gameState *state, int handPos)
       drawCard(currentPlayer, state);
       
       //+2 Actions
-      state->numActions = state->numActions + 2;
+      state->numActions = state->numActions + 3;	//bug introduced: add +3 actions instead of +2
+	  //state->numActions = state->numActions + 2;
       
       //discard played card from hand
       discardCard(handPos, currentPlayer, state, 0);

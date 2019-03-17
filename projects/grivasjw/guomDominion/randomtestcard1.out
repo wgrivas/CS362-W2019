@@ -1,0 +1,2167 @@
+randomtestcard1.c:
+
+
+--------------------Testing Great Hall Card: 1 of 100--------------------
+Number of players: 21
+Seed: 3581
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 2 of 100--------------------
+Number of players: 40
+Seed: 1233
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 3 of 100--------------------
+Number of players: 15
+Seed: 1732
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: FAILED
+
+--------------------Testing Great Hall Card: 4 of 100--------------------
+Number of players: 5
+Seed: 4763
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 5 of 100--------------------
+Number of players: 28
+Seed: 1235
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 6 of 100--------------------
+Number of players: 17
+Seed: 1149
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 7 of 100--------------------
+Number of players: 32
+Seed: 4767
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 8 of 100--------------------
+Number of players: 21
+Seed: 1886
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 9 of 100--------------------
+Number of players: 14
+Seed: 412
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 10 of 100--------------------
+Number of players: 35
+Seed: 251
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 11 of 100--------------------
+Number of players: 30
+Seed: 3743
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 12 of 100--------------------
+Number of players: 32
+Seed: 510
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 13 of 100--------------------
+Number of players: 14
+Seed: 768
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 14 of 100--------------------
+Number of players: 13
+Seed: 2580
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 15 of 100--------------------
+Number of players: 30
+Seed: 3755
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 16 of 100--------------------
+Number of players: 47
+Seed: 3151
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 17 of 100--------------------
+Number of players: 37
+Seed: 2087
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 18 of 100--------------------
+Number of players: 37
+Seed: 4152
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 19 of 100--------------------
+Number of players: 19
+Seed: 3342
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 20 of 100--------------------
+Number of players: 17
+Seed: 3097
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 21 of 100--------------------
+Number of players: 27
+Seed: 1484
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 22 of 100--------------------
+Number of players: 49
+Seed: 3611
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 23 of 100--------------------
+Number of players: 3
+Seed: 22
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 24 of 100--------------------
+Number of players: 48
+Seed: 1117
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 25 of 100--------------------
+Number of players: 34
+Seed: 735
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 26 of 100--------------------
+Number of players: 20
+Seed: 4267
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 27 of 100--------------------
+Number of players: 28
+Seed: 952
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 28 of 100--------------------
+Number of players: 27
+Seed: 392
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 29 of 100--------------------
+Number of players: 22
+Seed: 4190
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 30 of 100--------------------
+Number of players: 24
+Seed: 602
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 31 of 100--------------------
+Number of players: 45
+Seed: 672
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 32 of 100--------------------
+Number of players: 6
+Seed: 1634
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 33 of 100--------------------
+Number of players: 9
+Seed: 843
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 34 of 100--------------------
+Number of players: 38
+Seed: 2931
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 35 of 100--------------------
+Number of players: 37
+Seed: 3757
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: FAILED
+
+--------------------Testing Great Hall Card: 36 of 100--------------------
+Number of players: 28
+Seed: 1466
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 37 of 100--------------------
+Number of players: 43
+Seed: 2979
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 38 of 100--------------------
+Number of players: 27
+Seed: 4196
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 39 of 100--------------------
+Number of players: 1
+Seed: 1927
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 40 of 100--------------------
+Number of players: 13
+Seed: 3436
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 41 of 100--------------------
+Number of players: 12
+Seed: 4385
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 42 of 100--------------------
+Number of players: 5
+Seed: 2140
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 43 of 100--------------------
+Number of players: 40
+Seed: 3832
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 44 of 100--------------------
+Number of players: 34
+Seed: 4762
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 45 of 100--------------------
+Number of players: 24
+Seed: 4561
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 46 of 100--------------------
+Number of players: 17
+Seed: 3671
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 47 of 100--------------------
+Number of players: 33
+Seed: 3175
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 48 of 100--------------------
+Number of players: 6
+Seed: 4344
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 49 of 100--------------------
+Number of players: 20
+Seed: 3796
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 50 of 100--------------------
+Number of players: 25
+Seed: 907
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 51 of 100--------------------
+Number of players: 4
+Seed: 4656
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 52 of 100--------------------
+Number of players: 23
+Seed: 4147
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 53 of 100--------------------
+Number of players: 35
+Seed: 3802
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 54 of 100--------------------
+Number of players: 44
+Seed: 637
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 55 of 100--------------------
+Number of players: 30
+Seed: 9
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 56 of 100--------------------
+Number of players: 25
+Seed: 4744
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 57 of 100--------------------
+Number of players: 47
+Seed: 4480
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 58 of 100--------------------
+Number of players: 37
+Seed: 2437
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 59 of 100--------------------
+Number of players: 14
+Seed: 2121
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 60 of 100--------------------
+Number of players: 1
+Seed: 4038
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 61 of 100--------------------
+Number of players: 32
+Seed: 1620
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 62 of 100--------------------
+Number of players: 11
+Seed: 3267
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 63 of 100--------------------
+Number of players: 45
+Seed: 719
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: FAILED
+
+--------------------Testing Great Hall Card: 64 of 100--------------------
+Number of players: 14
+Seed: 1517
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 65 of 100--------------------
+Number of players: 16
+Seed: 1239
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 66 of 100--------------------
+Number of players: 24
+Seed: 2070
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 67 of 100--------------------
+Number of players: 47
+Seed: 1149
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 68 of 100--------------------
+Number of players: 19
+Seed: 4883
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 69 of 100--------------------
+Number of players: 2
+Seed: 913
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 70 of 100--------------------
+Number of players: 22
+Seed: 2034
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 71 of 100--------------------
+Number of players: 25
+Seed: 2297
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 72 of 100--------------------
+Number of players: 28
+Seed: 3022
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 73 of 100--------------------
+Number of players: 29
+Seed: 15
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 74 of 100--------------------
+Number of players: 9
+Seed: 2793
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 75 of 100--------------------
+Number of players: 39
+Seed: 362
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 76 of 100--------------------
+Number of players: 33
+Seed: 1523
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 77 of 100--------------------
+Number of players: 33
+Seed: 3596
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 78 of 100--------------------
+Number of players: 41
+Seed: 3130
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 79 of 100--------------------
+Number of players: 16
+Seed: 3755
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 80 of 100--------------------
+Number of players: 48
+Seed: 184
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 81 of 100--------------------
+Number of players: 46
+Seed: 3424
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: FAILED
+
+--------------------Testing Great Hall Card: 82 of 100--------------------
+Number of players: 6
+Seed: 3594
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 83 of 100--------------------
+Number of players: 24
+Seed: 1175
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 84 of 100--------------------
+Number of players: 29
+Seed: 878
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 85 of 100--------------------
+Number of players: 41
+Seed: 1701
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 86 of 100--------------------
+Number of players: 12
+Seed: 716
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 87 of 100--------------------
+Number of players: 48
+Seed: 1042
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 88 of 100--------------------
+Number of players: 40
+Seed: 3479
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 89 of 100--------------------
+Number of players: 8
+Seed: 549
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 90 of 100--------------------
+Number of players: 22
+Seed: 899
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 91 of 100--------------------
+Number of players: 13
+Seed: 807
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 92 of 100--------------------
+Number of players: 22
+Seed: 4246
+Whose turn: -1
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 93 of 100--------------------
+Number of players: 3
+Seed: 3565
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 94 of 100--------------------
+Number of players: 29
+Seed: 71
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 95 of 100--------------------
+Number of players: 20
+Seed: 3377
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 96 of 100--------------------
+Number of players: 5
+Seed: 19
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 97 of 100--------------------
+Number of players: 1
+Seed: 3861
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: PASSED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: PASSED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 98 of 100--------------------
+Number of players: 13
+Seed: 2727
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 99 of 100--------------------
+Number of players: 39
+Seed: 3442
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------Testing Great Hall Card: 100 of 100--------------------
+Number of players: 5
+Seed: 4830
+Whose turn: 0
+
+Test: Deck Count - Pass if correct, Fail if not correct
+Result: FAILED
+
+Test: Great Hall in Player's Hand - Pass if present, Fail if not present
+Result: FAILED
+
+Test: Played Great Hall Card - Pass if played, Fail if not played
+Result: PASSED
+
+Test: Great Hall Card Discarded - Pass if discarded, Fail if not discarded
+Result: PASSED
+
+Test: +1 Action Added - Pass if 1 action added, Fail if 1 action not added
+Result: PASSED
+
+--------------------End Test: Great Hall Card--------------------
+
+Function 'updateCoins'
+Lines executed:81.82% of 11
+Branches executed:100.00% of 8
+Taken at least once:75.00% of 8
+No calls
+
+Function 'gainCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 1
+
+Function 'discardCard'
+Lines executed:92.31% of 13
+Branches executed:100.00% of 6
+Taken at least once:66.67% of 6
+No calls
+
+Function 'cardEffect'
+Lines executed:6.28% of 207
+Branches executed:13.14% of 175
+Taken at least once:1.71% of 175
+Calls executed:5.45% of 55
+
+Function 'stewardCard'
+Lines executed:0.00% of 10
+Branches executed:0.00% of 4
+Taken at least once:0.00% of 4
+Calls executed:0.00% of 5
+
+Function 'villageCard'
+Lines executed:0.00% of 5
+No branches
+Calls executed:0.00% of 2
+
+Function 'council_roomCard'
+Lines executed:0.00% of 8
+Branches executed:0.00% of 4
+Taken at least once:0.00% of 4
+Calls executed:0.00% of 3
+
+Function 'smithyCard'
+Lines executed:0.00% of 5
+Branches executed:0.00% of 2
+Taken at least once:0.00% of 2
+Calls executed:0.00% of 2
+
+Function 'adventurerCard'
+Lines executed:0.00% of 15
+Branches executed:0.00% of 12
+Taken at least once:0.00% of 12
+Calls executed:0.00% of 2
+
+Function 'getCost'
+Lines executed:0.00% of 30
+Branches executed:0.00% of 28
+Taken at least once:0.00% of 28
+No calls
+
+Function 'drawCard'
+Lines executed:77.27% of 22
+Branches executed:100.00% of 6
+Taken at least once:66.67% of 6
+Calls executed:100.00% of 1
+
+Function 'getWinners'
+Lines executed:0.00% of 24
+Branches executed:0.00% of 22
+Taken at least once:0.00% of 22
+Calls executed:0.00% of 2
+
+Function 'scoreFor'
+Lines executed:0.00% of 24
+Branches executed:0.00% of 42
+Taken at least once:0.00% of 42
+Calls executed:0.00% of 3
+
+Function 'isGameOver'
+Lines executed:0.00% of 10
+Branches executed:0.00% of 8
+Taken at least once:0.00% of 8
+No calls
+
+Function 'endTurn'
+Lines executed:0.00% of 20
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 3
+
+Function 'whoseTurn'
+Lines executed:100.00% of 2
+No branches
+No calls
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 9
+Branches executed:0.00% of 12
+Taken at least once:0.00% of 12
+No calls
+
+Function 'supplyCount'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'handCard'
+Lines executed:0.00% of 3
+No branches
+Calls executed:0.00% of 1
+
+Function 'numHandCards'
+Lines executed:0.00% of 2
+No branches
+Calls executed:0.00% of 1
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 4
+
+Function 'playCard'
+Lines executed:0.00% of 14
+Branches executed:0.00% of 10
+Taken at least once:0.00% of 10
+Calls executed:0.00% of 3
+
+Function 'shuffle'
+Lines executed:100.00% of 16
+Branches executed:100.00% of 8
+Taken at least once:100.00% of 8
+Calls executed:100.00% of 2
+
+Function 'initializeGame'
+Lines executed:91.94% of 62
+Branches executed:95.65% of 46
+Taken at least once:86.96% of 46
+Calls executed:100.00% of 5
+
+Function 'kingdomCards'
+Lines executed:0.00% of 13
+No branches
+No calls
+
+Function 'newGame'
+Lines executed:0.00% of 3
+No branches
+No calls
+
+Function 'compare'
+Lines executed:83.33% of 6
+Branches executed:100.00% of 4
+Taken at least once:75.00% of 4
+No calls
+
+File 'dominion.c'
+Lines executed:23.31% of 562
+Branches executed:23.86% of 415
+Taken at least once:16.39% of 415
+Calls executed:11.58% of 95
+Creating 'dominion.c.gcov'
+

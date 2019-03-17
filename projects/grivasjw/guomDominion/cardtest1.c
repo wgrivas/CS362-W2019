@@ -60,7 +60,8 @@ int main(int argc, char** argv)
 	
 	//Deck Count
 	printf("\nTest: Deck Count - Pass if correct, Fail if not correct\n");
-	compareStates(test.deckCount[player]-1, state.deckCount[player]);
+	compareStates(test.deckCount[player]-3, state.deckCount[player]);
+	printf("\nTest Deck count = %i, State Deck count = %i\n", test.deckCount[player], state.deckCount[player]);
 	
 	//Check the player's hand count
 	printf("\n\nTest: Player's Hand Count - Pass if correct, Fail if not correct\n");
@@ -126,4 +127,18 @@ int smithyEffect(int currentPlayer, struct gameState *state, int handPos){
     discardCard(handPos, currentPlayer, state, 0);
     return 0;
 }
+*/
+/*  
+	Original Code:
+
+    case smithy:
+      //+3 Cards
+      for (i = 0; i < 3; i++)
+	{
+	  drawCard(currentPlayer, state);
+	}
+			
+      //discard card from hand
+      discardCard(handPos, currentPlayer, state, 0);
+      return 0;
 */
