@@ -43,7 +43,7 @@ public class UrlValidatorTest extends TestCase {
 	   UrlValidator urlValidator = new UrlValidator(null, null, UrlValidator.ALLOW_ALL_SCHEMES);
 	      
 	   assertTrue(urlValidator.isValid("http://www.google.com"));
-	   assertFalse(urlValidator.isValid("ftp://www.google.com"));
+	   assertTrue(urlValidator.isValid("ftp://www.google.com"));
 	   assertFalse(urlValidator.isValid("38pt://google.com")); //38pt not valid
 	   assertTrue(urlValidator.isValid("https://www.google.com"));
 	   assertTrue(urlValidator.isValid("http://www.go.au"));
@@ -326,7 +326,8 @@ public class UrlValidatorTest extends TestCase {
 		testYourSecondPartition();
 		System.out.println("---MANUAL TESTS:");
 		testManualTest();
-
+		System.out.println("All Manual Tests Passed!");
+		
 	}
    
 
