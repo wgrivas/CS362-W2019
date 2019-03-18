@@ -315,7 +315,7 @@ public class UrlValidator implements Serializable {
             if (authority != null) {
             	
                 if (authority.contains(".")) { // but cannot allow trailing :
-                    return false;   //BUG ADDED: CHANGED ":" CASE TO null CASE
+                    return false;   //BUG ADDED: CHANGED ":" CASE TO "." CASE
                 }
             }
             // drop through to continue validation
@@ -328,7 +328,7 @@ public class UrlValidator implements Serializable {
 
         if (!isValidPath(urlMatcher.group(PARSE_URL_PATH)) && !isValidQuery(urlMatcher.group(PARSE_URL_QUERY))) {
             return false;       
-        }
+        }                           //BUG ADDED: COMBINED THE CONDITIONAL STATEMENTS
         /*
         if (!isValidQuery(urlMatcher.group(PARSE_URL_QUERY))) {
             return false;
